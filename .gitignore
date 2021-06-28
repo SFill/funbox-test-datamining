@@ -1,0 +1,5 @@
+**/.ipynb_checkpoints/*
+*.db
+*.txt
+*.csv
+*.bz2
